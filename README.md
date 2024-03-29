@@ -1,3 +1,3 @@
 # BSUmbrella
 
-This repository will be the delpoyed items for https://umbrella.bsquest.xyz
+This repository will be the deployed items for https://umbrella.bsquest.xyz
