@@ -6,23 +6,30 @@
 <title>Nothing to See Here</title>
 <style>
   body {
-    background-color: #121212; /* Dark background color */
+    background-color: #121212;
     margin: 0;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: 'Segoe Script', cursive; /* Fancy font */
+    font-family: 'Segoe Script', cursive;
   }
   .message {
-    color: #ffffff; /* White text color */
+    color: #ffffff;
     font-size: 36px;
     text-align: center;
+    margin-bottom: 20px;
+  }
+  .image-container {
+    margin-top: 20px;
   }
 </style>
 </head>
 <body>
-<div class="message">Nothing to see here folks</div><br />
-<img src="flamingo.png" />
+<div class="message">Nothing to see here folks</div>
+<div class="image-container">
+  <img src="flamingo.png" />
+</div>
 </body>
 </html>
