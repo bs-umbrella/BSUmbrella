@@ -1,12 +1,9 @@
 {
-    "Quest": {
-        "UmbrellaBoard": {},
-        "UmbrellaPromo": {
-            "github": {
-                "UmbrellaRepo": "https://github.com/bs-umbrella/UmbrellaRepo"
-            },
-            "raw": {}
-        }
-    },
-    "PC": {}
+    "UmbrellaBoard": {},
+    "UmbrellaPromo": {
+        "github": {
+            "UmbrellaRepo": "https://github.com/bs-umbrella/UmbrellaRepo"
+        },
+        "raw": {}
+    }
 }
