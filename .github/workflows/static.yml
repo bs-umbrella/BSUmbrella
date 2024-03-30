@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Fetch Umbrella sources and deploy to live every 15 minutes
 
 on:
   # Runs on pushes targeting the default branch
